@@ -3,6 +3,7 @@ import java.util.ArrayList;
 class SetOperationsTester {
     public static void main(String[] args) {
         ArrayList<String> universalSet = new ArrayList<>();
+        //tests
         universalSet.add("Monday");
         universalSet.add("Tuesday");
         universalSet.add("Wednesday");
